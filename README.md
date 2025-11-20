@@ -98,14 +98,13 @@ Time-series trends
 
 Customer behavior by segment
 
-Geo-analysis (if location data available)
-
 Filters for dynamic exploration
 
 
 
 
 
+<img width="1397" height="730" alt="cbpower" src="https://github.com/user-attachments/assets/397a8368-3a01-4911-970a-a63131cf3878" />
 
 
 
